@@ -1,0 +1,16 @@
+Metadata-Version: 0.1
+Name: quickid
+Version: 0.1
+Summary: Quick Line ID for Spectra
+Home-page: https://github.com/anthonyburrow/spextractor
+Author: Eddie Baron
+Author-email: ebaron@psi.edu
+License: GPL-v3
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Astronomy
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Intended Audience :: Science/Research
+Classifier: Development Status :: 3 - Alpha
+License-File: LICENSE

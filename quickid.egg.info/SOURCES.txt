@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+quickid/__init__.py
+quickid/quickid.py
+quickid.egg-info/PKG-INFO
+quickid.egg-info/SOURCES.txt
+quickid.egg-info/dependency_links.txt
+quickid.egg-info/requires.txt
+quickid.egg-info/top_level.txt
