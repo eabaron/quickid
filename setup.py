@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(name='quickid', version='0.1',
       description='Quick Line IDs for Observation',
-      url='https://github.com/eabaron/quickid'
+      url='https://github.com/eabaron/quickid',
       author='Eddie Baron',
       author_email='ebaron@psi.edu',
       license='GPL-v3',
